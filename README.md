@@ -63,18 +63,6 @@ Everything organized in one beautiful dashboard.
 
 ---
 
-## 🚀 Key Accomplishments
-
-- Built full-stack SaaS application from scratch in Next.js
-- Integrated Claude AI for intelligent email parsing (95%+ accuracy)
-- Implemented secure OAuth 2.0 flow with Gmail API
-- Designed and implemented end-to-end encryption for sensitive data
-- Created responsive dark-themed UI with Tailwind CSS
-- Deployed production app with custom domain
-- Prepared for Google OAuth verification process
-
----
-
 ## 📝 Note
 
 This is a showcase repository for portfolio purposes. The source code is kept private. For inquiries or demo access, please contact me directly.
